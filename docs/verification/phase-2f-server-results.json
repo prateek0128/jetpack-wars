@@ -1,0 +1,114 @@
+{
+  "tests": [
+    {
+      "accepted": true,
+      "ammo": null,
+      "damage": [
+        56
+      ],
+      "passed": true,
+      "reason": null,
+      "test": "close_SH8"
+    },
+    {
+      "accepted": false,
+      "ammo": null,
+      "damage": null,
+      "passed": true,
+      "reason": "rate_limited",
+      "test": "rapid_rejected"
+    },
+    {
+      "accepted": false,
+      "ammo": null,
+      "damage": null,
+      "passed": true,
+      "reason": "rate_limited",
+      "test": "switch_does_not_bypass_cooldown"
+    },
+    {
+      "accepted": null,
+      "ammo": null,
+      "damage": null,
+      "passed": true,
+      "reason": null,
+      "test": "invalid_weapon_rejected"
+    },
+    {
+      "accepted": null,
+      "ammo": null,
+      "damage": null,
+      "passed": true,
+      "reason": null,
+      "test": "empty_reload_rejected"
+    },
+    {
+      "accepted": null,
+      "ammo": 0,
+      "damage": null,
+      "passed": true,
+      "reason": null,
+      "test": "reload_cancelled_without_refill"
+    },
+    {
+      "accepted": null,
+      "ammo": 6,
+      "damage": null,
+      "passed": true,
+      "reason": null,
+      "test": "reload_completed"
+    },
+    {
+      "accepted": true,
+      "ammo": null,
+      "damage": null,
+      "passed": true,
+      "reason": null,
+      "test": "range_limit"
+    },
+    {
+      "accepted": true,
+      "ammo": null,
+      "damage": [
+        25
+      ],
+      "passed": true,
+      "reason": null,
+      "test": "VX9_25"
+    },
+    {
+      "accepted": false,
+      "ammo": null,
+      "damage": null,
+      "passed": true,
+      "reason": "player_dead",
+      "test": "dead_rejected"
+    },
+    {
+      "accepted": null,
+      "ammo": null,
+      "damage": null,
+      "passed": true,
+      "reason": null,
+      "test": "disconnected_rejected"
+    },
+    {
+      "accepted": null,
+      "ammo": null,
+      "damage": null,
+      "passed": true,
+      "reason": null,
+      "test": "countdown_rejected"
+    },
+    {
+      "accepted": null,
+      "ammo": 6,
+      "damage": null,
+      "passed": true,
+      "reason": null,
+      "test": "play_again_resets_loadout_and_score"
+    }
+  ],
+  "fixture": "Z8P2E",
+  "method": "Linked Supabase SQL; server RPCs with test auth claims; all fixture updates rolled back."
+}

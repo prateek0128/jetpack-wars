@@ -1,0 +1,3952 @@
+[
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:48:55.620Z",
+    "weapon": "VX9",
+    "direction": [
+      0.5496262319821243,
+      -0.056465517707628116,
+      -0.8335002402082087
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.5829678435110992,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": true,
+    "authoritativeShooter": {
+      "kills": 0,
+      "deaths": 0,
+      "health": 100,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 5,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.58296847191218,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:48:55.607129+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:48:55.607129+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          3.68632250449358,
+          1.32353082314907,
+          -4.51270878401643
+        ],
+        "hit": true,
+        "type": "shot_fired",
+        "origin": [
+          -6.20782433555341,
+          2.34,
+          10.49162195561
+        ],
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              3.68632250449358,
+              1.32353082314907,
+              -4.51270878401643
+            ],
+            "hit": true,
+            "direction": [
+              0.549626231982124,
+              -0.0564655177076281,
+              -0.833500240208209
+            ],
+            "target_id": "b92a7b91-d528-4837-bf64-2e6de5bac018"
+          }
+        ],
+        "shooter": {
+          "kills": 0,
+          "deaths": 0,
+          "health": 100,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 5,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.58296847191218,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:48:55.607129+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:48:55.607129+00:00"
+        },
+        "shot_id": "7d094d5e-7d8a-41a8-9178-d9bba0388b05",
+        "event_id": "f7b4a2ca-61f2-4a4e-837f-3d2cc3acbc92",
+        "fired_at": "2026-10-08T04:48:55.607129+00:00",
+        "direction": [
+          0.549626231982124,
+          -0.0564655177076281,
+          -0.833500240208209
+        ],
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      },
+      {
+        "type": "player_damaged",
+        "damage": 25,
+        "player": {
+          "kills": 0,
+          "deaths": 0,
+          "health": 25,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            4,
+            0,
+            -5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": null,
+          "rotation_y": 2.49265073237437,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:48:55.607129+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:48:21.00072+00:00"
+        },
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shooter": {
+          "kills": 0,
+          "deaths": 0,
+          "health": 100,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 5,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.58296847191218,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:48:55.607129+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:48:55.607129+00:00"
+        },
+        "shot_id": "7d094d5e-7d8a-41a8-9178-d9bba0388b05",
+        "event_id": "7dd65897-5b1e-4c14-a0f2-17f375ed0630",
+        "target_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      }
+    ]
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:49:00.308Z",
+    "weapon": "VX9",
+    "direction": [
+      0.5496262319821243,
+      -0.056465517707628116,
+      -0.8335002402082087
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.5829681723170764,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": true,
+    "authoritativeShooter": {
+      "kills": 1,
+      "deaths": 0,
+      "health": 100,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 4,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.58296847191218,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:49:00.16272+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:49:00.16272+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          3.68632250449358,
+          1.32353082314907,
+          -4.51270878401643
+        ],
+        "hit": true,
+        "type": "shot_fired",
+        "origin": [
+          -6.20782433555341,
+          2.34,
+          10.49162195561
+        ],
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              3.68632250449358,
+              1.32353082314907,
+              -4.51270878401643
+            ],
+            "hit": true,
+            "direction": [
+              0.549626231982124,
+              -0.0564655177076281,
+              -0.833500240208209
+            ],
+            "target_id": "b92a7b91-d528-4837-bf64-2e6de5bac018"
+          }
+        ],
+        "shooter": {
+          "kills": 0,
+          "deaths": 0,
+          "health": 100,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 4,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.58296847191218,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:49:00.16272+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:49:00.16272+00:00"
+        },
+        "shot_id": "087097b2-a9fe-4319-a3a8-83d62bb89d30",
+        "event_id": "3cc65f53-7a3e-401e-8c2b-3b2770e5c67d",
+        "fired_at": "2026-10-08T04:49:00.16272+00:00",
+        "direction": [
+          0.549626231982124,
+          -0.0564655177076281,
+          -0.833500240208209
+        ],
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      },
+      {
+        "type": "player_damaged",
+        "damage": 25,
+        "player": {
+          "kills": 0,
+          "deaths": 1,
+          "health": 0,
+          "grounded": true,
+          "is_alive": false,
+          "position": [
+            4,
+            0,
+            -5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": "2026-10-08T04:49:02.16272+00:00",
+          "rotation_y": 2.49265073237437,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:49:00.16272+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:49:00.16879+00:00"
+        },
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shooter": {
+          "kills": 1,
+          "deaths": 0,
+          "health": 100,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 4,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.58296847191218,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:49:00.16272+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:49:00.16272+00:00"
+        },
+        "shot_id": "087097b2-a9fe-4319-a3a8-83d62bb89d30",
+        "event_id": "c968a9e8-6df2-4810-bca3-5555383572cd",
+        "target_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      },
+      {
+        "type": "player_died",
+        "killer": {
+          "kills": 1,
+          "deaths": 0,
+          "health": 100,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 4,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.58296847191218,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:49:00.16272+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:49:00.16272+00:00"
+        },
+        "player": {
+          "kills": 0,
+          "deaths": 1,
+          "health": 0,
+          "grounded": true,
+          "is_alive": false,
+          "position": [
+            4,
+            0,
+            -5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": "2026-10-08T04:49:02.16272+00:00",
+          "rotation_y": 2.49265073237437,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:49:00.16272+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:49:00.16879+00:00"
+        },
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shot_id": "087097b2-a9fe-4319-a3a8-83d62bb89d30",
+        "event_id": "2aecec7e-5984-4b6c-a5c5-2db355c997c6"
+      },
+      {
+        "type": "elimination",
+        "player": {
+          "kills": 1,
+          "deaths": 0,
+          "health": 100,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 4,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.58296847191218,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:49:00.16272+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:49:00.16272+00:00"
+        },
+        "victim": {
+          "kills": 0,
+          "deaths": 1,
+          "health": 0,
+          "grounded": true,
+          "is_alive": false,
+          "position": [
+            4,
+            0,
+            -5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": "2026-10-08T04:49:02.16272+00:00",
+          "rotation_y": 2.49265073237437,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:49:00.16272+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:49:00.16879+00:00"
+        },
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shot_id": "087097b2-a9fe-4319-a3a8-83d62bb89d30",
+        "event_id": "8b7d398c-93f6-4c7a-905a-2389ea74d367"
+      }
+    ]
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:18.313Z",
+    "weapon": "VX9",
+    "direction": [
+      0.5271751387299427,
+      -0.07799314800827473,
+      -0.8461698659068551
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.5571687734631026,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": false,
+    "authoritativeShooter": {
+      "kills": 1,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 11,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.557169450904049,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:18.239176+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:18.239176+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          16.0759289567905,
+          -0.935712216347539,
+          -24.9923865060312
+        ],
+        "hit": false,
+        "type": "shot_fired",
+        "origin": [
+          -6.06542686986705,
+          2.34,
+          10.5467478620568
+        ],
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              16.0759289567905,
+              -0.935712216347539,
+              -24.9923865060312
+            ],
+            "hit": false,
+            "direction": [
+              0.527175138729943,
+              -0.0779931480082747,
+              -0.846169865906855
+            ],
+            "target_id": null
+          }
+        ],
+        "shooter": {
+          "kills": 1,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 11,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.557169450904049,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:18.239176+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:18.239176+00:00"
+        },
+        "shot_id": "c0bc0ea8-62f5-47b7-8326-c8e25d394ea6",
+        "event_id": "c8963c39-e6b4-4a76-8fce-ac98fd64f3e7",
+        "fired_at": "2026-10-08T04:50:18.239176+00:00",
+        "direction": [
+          0.527175138729943,
+          -0.0779931480082747,
+          -0.846169865906855
+        ],
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      }
+    ]
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:40.258Z",
+    "weapon": "VX9",
+    "direction": [
+      0.4719649035370599,
+      -0.05645600734909191,
+      -0.8798078478073795
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.4912440237396586,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": true,
+    "authoritativeShooter": {
+      "kills": 1,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 10,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.557169450904049,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:39.937571+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:39.937571+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          -1.74502278990837,
+          1.86667748994671,
+          3.29260897052366
+        ],
+        "hit": true,
+        "type": "shot_fired",
+        "origin": [
+          -5.70193762127242,
+          2.34,
+          10.6688454144824
+        ],
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              -1.74502278990837,
+              1.86667748994671,
+              3.29260897052366
+            ],
+            "hit": true,
+            "direction": [
+              0.47196490353706,
+              -0.0564560073490919,
+              -0.87980784780738
+            ],
+            "target_id": "b92a7b91-d528-4837-bf64-2e6de5bac018"
+          }
+        ],
+        "shooter": {
+          "kills": 1,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 10,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.557169450904049,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:39.937571+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:39.937571+00:00"
+        },
+        "shot_id": "40b949c5-e167-432d-ac9b-4c43c6308f9e",
+        "event_id": "70570129-1062-4e9c-9d8b-2780206b8835",
+        "fired_at": "2026-10-08T04:50:39.937571+00:00",
+        "direction": [
+          0.47196490353706,
+          -0.0564560073490919,
+          -0.87980784780738
+        ],
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      },
+      {
+        "type": "player_damaged",
+        "damage": 25,
+        "player": {
+          "kills": 0,
+          "deaths": 1,
+          "health": 75,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -1.70007749555618,
+            0,
+            3.17747190914336
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": null,
+          "rotation_y": 2.55862418167761,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:50:39.937571+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:49:45.606491+00:00"
+        },
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shooter": {
+          "kills": 1,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 10,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.557169450904049,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:39.937571+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:39.937571+00:00"
+        },
+        "shot_id": "40b949c5-e167-432d-ac9b-4c43c6308f9e",
+        "event_id": "fa6831e3-3ff4-492a-be2a-0b9758cbc69c",
+        "target_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      }
+    ]
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:40.616Z",
+    "weapon": "VX9",
+    "direction": [
+      0.4708731233296982,
+      -0.06520289307392824,
+      -0.8797880906562242
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.4911943496293622,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": true,
+    "authoritativeShooter": {
+      "kills": 1,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 9,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.491309427160906,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:40.33113+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:40.33113+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          -1.82470999413515,
+          1.80386089294909,
+          3.43629799139649
+        ],
+        "hit": true,
+        "type": "shot_fired",
+        "origin": [
+          -5.69652432590139,
+          2.34,
+          10.6704678124141
+        ],
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              -1.82470999413515,
+              1.80386089294909,
+              3.43629799139649
+            ],
+            "hit": true,
+            "direction": [
+              0.470873123329698,
+              -0.0652028930739283,
+              -0.879788090656224
+            ],
+            "target_id": "b92a7b91-d528-4837-bf64-2e6de5bac018"
+          }
+        ],
+        "shooter": {
+          "kills": 1,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 9,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491309427160906,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:40.33113+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:40.33113+00:00"
+        },
+        "shot_id": "0bc900f2-1698-4dfe-86fa-e2bb458f4e22",
+        "event_id": "3c34eeb1-774f-4185-9ef9-589486f0c236",
+        "fired_at": "2026-10-08T04:50:40.33113+00:00",
+        "direction": [
+          0.470873123329698,
+          -0.0652028930739283,
+          -0.879788090656224
+        ],
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      },
+      {
+        "type": "player_damaged",
+        "damage": 25,
+        "player": {
+          "kills": 0,
+          "deaths": 1,
+          "health": 50,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -1.70007749555618,
+            0,
+            3.17747190914336
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": null,
+          "rotation_y": 2.55862418167761,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:50:40.33113+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:49:45.606491+00:00"
+        },
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shooter": {
+          "kills": 1,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 9,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491309427160906,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:40.33113+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:40.33113+00:00"
+        },
+        "shot_id": "0bc900f2-1698-4dfe-86fa-e2bb458f4e22",
+        "event_id": "5ad4bbdc-8ad8-4b24-8cc7-ba0f3f80e5a9",
+        "target_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      }
+    ]
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:40.947Z",
+    "weapon": "VX9",
+    "direction": [
+      0.47069496818665996,
+      -0.06531444611647544,
+      -0.8798751445814669
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.49117646050274993,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": true,
+    "authoritativeShooter": {
+      "kills": 1,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 8,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.491309427160906,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:40.714669+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:40.714669+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          -1.82581031717185,
+          1.80304929682418,
+          3.43734238175089
+        ],
+        "hit": true,
+        "type": "shot_fired",
+        "origin": [
+          -5.69539827476453,
+          2.34,
+          10.6708045892911
+        ],
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              -1.82581031717185,
+              1.80304929682418,
+              3.43734238175089
+            ],
+            "hit": true,
+            "direction": [
+              0.47069496818666,
+              -0.0653144461164754,
+              -0.879875144581467
+            ],
+            "target_id": "b92a7b91-d528-4837-bf64-2e6de5bac018"
+          }
+        ],
+        "shooter": {
+          "kills": 1,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 8,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491309427160906,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:40.714669+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:40.714669+00:00"
+        },
+        "shot_id": "e4589676-aec4-4e08-afa2-11932cc6a863",
+        "event_id": "83e389a1-d9e4-4767-8248-a13bc0a1b4d9",
+        "fired_at": "2026-10-08T04:50:40.714669+00:00",
+        "direction": [
+          0.47069496818666,
+          -0.0653144461164754,
+          -0.879875144581467
+        ],
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      },
+      {
+        "type": "player_damaged",
+        "damage": 25,
+        "player": {
+          "kills": 0,
+          "deaths": 1,
+          "health": 25,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -1.70007749555618,
+            0,
+            3.17747190914336
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": null,
+          "rotation_y": 2.55862418167761,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:50:40.714669+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:49:45.606491+00:00"
+        },
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shooter": {
+          "kills": 1,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 8,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491309427160906,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:40.714669+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:40.714669+00:00"
+        },
+        "shot_id": "e4589676-aec4-4e08-afa2-11932cc6a863",
+        "event_id": "d289a26a-4cdf-49b5-aafe-251964254a2d",
+        "target_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      }
+    ]
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:40.995Z",
+    "weapon": "VX9",
+    "direction": [
+      0.47067027716127496,
+      -0.06524535619956782,
+      -0.8798934786048366
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.49117646050274993,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": false,
+    "hit": null,
+    "authoritativeShooter": {
+      "kills": 1,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 8,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.491309427160906,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:40.714669+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:40.714669+00:00"
+    },
+    "events": []
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:41.697Z",
+    "weapon": "VX9",
+    "direction": [
+      0.4701004487936169,
+      -0.08108233498567065,
+      -0.8788806648216306
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.4911635282965107,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": true,
+    "authoritativeShooter": {
+      "kills": 2,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 7,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.491309427160906,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:41.341502+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:41.341502+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          -1.89461394868219,
+          1.68449958792388,
+          3.56569302563694
+        ],
+        "hit": true,
+        "type": "shot_fired",
+        "origin": [
+          -5.695084642525,
+          2.34,
+          10.6708983463536
+        ],
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              -1.89461394868219,
+              1.68449958792388,
+              3.56569302563694
+            ],
+            "hit": true,
+            "direction": [
+              0.470100448793617,
+              -0.0810823349856706,
+              -0.878880664821631
+            ],
+            "target_id": "b92a7b91-d528-4837-bf64-2e6de5bac018"
+          }
+        ],
+        "shooter": {
+          "kills": 1,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 7,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491309427160906,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:41.341502+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:41.341502+00:00"
+        },
+        "shot_id": "7bf90136-5d33-4824-ac17-ad1371854a58",
+        "event_id": "4763c0da-fa79-42a8-8b84-275eaf3d8c93",
+        "fired_at": "2026-10-08T04:50:41.341502+00:00",
+        "direction": [
+          0.470100448793617,
+          -0.0810823349856706,
+          -0.878880664821631
+        ],
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      },
+      {
+        "type": "player_damaged",
+        "damage": 25,
+        "player": {
+          "kills": 0,
+          "deaths": 2,
+          "health": 0,
+          "grounded": true,
+          "is_alive": false,
+          "position": [
+            -1.70007749555618,
+            0,
+            3.17747190914336
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": "2026-10-08T04:50:43.341502+00:00",
+          "rotation_y": 2.55862418167761,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:50:41.341502+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:50:41.424886+00:00"
+        },
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shooter": {
+          "kills": 2,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 7,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491309427160906,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:41.341502+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:41.341502+00:00"
+        },
+        "shot_id": "7bf90136-5d33-4824-ac17-ad1371854a58",
+        "event_id": "4b855933-3369-46de-aa86-353ecbdb4a51",
+        "target_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      },
+      {
+        "type": "player_died",
+        "killer": {
+          "kills": 2,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 7,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491309427160906,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:41.341502+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:41.341502+00:00"
+        },
+        "player": {
+          "kills": 0,
+          "deaths": 2,
+          "health": 0,
+          "grounded": true,
+          "is_alive": false,
+          "position": [
+            -1.70007749555618,
+            0,
+            3.17747190914336
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": "2026-10-08T04:50:43.341502+00:00",
+          "rotation_y": 2.55862418167761,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:50:41.341502+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:50:41.424886+00:00"
+        },
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shot_id": "7bf90136-5d33-4824-ac17-ad1371854a58",
+        "event_id": "70f87165-fc6d-48f5-b0dd-e59f98e9d140"
+      },
+      {
+        "type": "elimination",
+        "player": {
+          "kills": 2,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 7,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491309427160906,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:41.341502+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:41.341502+00:00"
+        },
+        "victim": {
+          "kills": 0,
+          "deaths": 2,
+          "health": 0,
+          "grounded": true,
+          "is_alive": false,
+          "position": [
+            -1.70007749555618,
+            0,
+            3.17747190914336
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": "2026-10-08T04:50:43.341502+00:00",
+          "rotation_y": 2.55862418167761,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:50:41.341502+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:50:41.424886+00:00"
+        },
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shot_id": "7bf90136-5d33-4824-ac17-ad1371854a58",
+        "event_id": "55b486ae-1c1d-46f5-aba2-39fd8ca10c6f"
+      }
+    ]
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:41.840Z",
+    "weapon": "VX9",
+    "direction": [
+      0.470102207183818,
+      -0.08103238431440808,
+      -0.8788843311228302
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.4911531995071505,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": false,
+    "authoritativeShooter": {
+      "kills": 2,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 6,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.491309427160906,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:41.72008+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:41.72008+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          14.049209075946,
+          -1.06336014120514,
+          -26.2422432568891
+        ],
+        "hit": false,
+        "type": "shot_fired",
+        "origin": [
+          -5.69508362577431,
+          2.34,
+          10.6708986502698
+        ],
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              14.049209075946,
+              -1.06336014120514,
+              -26.2422432568891
+            ],
+            "hit": false,
+            "direction": [
+              0.470102207183818,
+              -0.0810323843144081,
+              -0.87888433112283
+            ],
+            "target_id": null
+          }
+        ],
+        "shooter": {
+          "kills": 2,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 6,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491309427160906,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:41.72008+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:41.72008+00:00"
+        },
+        "shot_id": "ce18756e-45db-42d5-9a7c-4706a9530944",
+        "event_id": "7f8d6d0d-1b0c-4577-8e94-eea7667a3e83",
+        "fired_at": "2026-10-08T04:50:41.72008+00:00",
+        "direction": [
+          0.470102207183818,
+          -0.0810323843144081,
+          -0.87888433112283
+        ],
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      }
+    ]
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:41.991Z",
+    "weapon": "VX9",
+    "direction": [
+      0.4701010661799808,
+      -0.08105813111501525,
+      -0.8788825672162273
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.49116000205552834,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": false,
+    "hit": null,
+    "authoritativeShooter": {
+      "kills": 2,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 6,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.491309427160906,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:41.72008+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:41.72008+00:00"
+    },
+    "events": []
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:42.405Z",
+    "weapon": "VX9",
+    "direction": [
+      0.46973047216597874,
+      -0.08987617751921985,
+      -0.8782229536019087
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.4911490437541957,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": false,
+    "authoritativeShooter": {
+      "kills": 2,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 5,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.491309427160906,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:42.29734+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:42.29734+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          14.0336864496751,
+          -1.43479945580723,
+          -26.2144384268902
+        ],
+        "hit": false,
+        "type": "shot_fired",
+        "origin": [
+          -5.69499338129604,
+          2.34,
+          10.67092562439
+        ],
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              14.0336864496751,
+              -1.43479945580723,
+              -26.2144384268902
+            ],
+            "hit": false,
+            "direction": [
+              0.469730472165979,
+              -0.0898761775192199,
+              -0.878222953601909
+            ],
+            "target_id": null
+          }
+        ],
+        "shooter": {
+          "kills": 2,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 5,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491309427160906,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:42.29734+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:42.29734+00:00"
+        },
+        "shot_id": "a7ffe33c-9596-4b82-829b-e1aaa06769c1",
+        "event_id": "3614a8c4-8620-4550-a103-b8c25f9dfde6",
+        "fired_at": "2026-10-08T04:50:42.29734+00:00",
+        "direction": [
+          0.469730472165979,
+          -0.0898761775192199,
+          -0.878222953601909
+        ],
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      }
+    ]
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:42.824Z",
+    "weapon": "VX9",
+    "direction": [
+      0.46973563549140346,
+      -0.08975935519143244,
+      -0.8782321395309475
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.4911303361019032,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": false,
+    "authoritativeShooter": {
+      "kills": 2,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 4,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.491309427160906,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:42.635046+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:42.635046+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          14.0339020536502,
+          -1.42989291804016,
+          -26.2148246112263
+        ],
+        "hit": false,
+        "type": "shot_fired",
+        "origin": [
+          -5.69499463698875,
+          2.34,
+          10.6709252490735
+        ],
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              14.0339020536502,
+              -1.42989291804016,
+              -26.2148246112263
+            ],
+            "hit": false,
+            "direction": [
+              0.469735635491403,
+              -0.0897593551914324,
+              -0.878232139530947
+            ],
+            "target_id": null
+          }
+        ],
+        "shooter": {
+          "kills": 2,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 4,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491309427160906,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:42.635046+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:42.635046+00:00"
+        },
+        "shot_id": "5d5a5a48-f364-476c-8d13-e365e2f114ee",
+        "event_id": "5f972516-0dd1-443e-ac99-0b9754918aa6",
+        "fired_at": "2026-10-08T04:50:42.635046+00:00",
+        "direction": [
+          0.469735635491403,
+          -0.0897593551914324,
+          -0.878232139530947
+        ],
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      }
+    ]
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:43.183Z",
+    "weapon": "VX9",
+    "direction": [
+      0.4694004023211165,
+      -0.09704362221272117,
+      -0.8776364837953176
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.49111257812791526,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": false,
+    "authoritativeShooter": {
+      "kills": 2,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 3,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.491309427160906,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:42.919017+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:42.919017+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          14.0199058535943,
+          -1.73583213293429,
+          -26.1897820856867
+        ],
+        "hit": false,
+        "type": "shot_fired",
+        "origin": [
+          -5.69491104389261,
+          2.34,
+          10.6709502337166
+        ],
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              14.0199058535943,
+              -1.73583213293429,
+              -26.1897820856867
+            ],
+            "hit": false,
+            "direction": [
+              0.469400402321117,
+              -0.0970436222127212,
+              -0.877636483795318
+            ],
+            "target_id": null
+          }
+        ],
+        "shooter": {
+          "kills": 2,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 3,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491309427160906,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:42.919017+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:42.919017+00:00"
+        },
+        "shot_id": "f8d047f5-625c-47dd-b587-b9a0296c5791",
+        "event_id": "5e02b080-db9c-4064-8d4b-bddc7c1fc638",
+        "fired_at": "2026-10-08T04:50:42.919017+00:00",
+        "direction": [
+          0.469400402321117,
+          -0.0970436222127212,
+          -0.877636483795318
+        ],
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      }
+    ]
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:43.198Z",
+    "weapon": "VX9",
+    "direction": [
+      0.4694033339903449,
+      -0.09698234516391686,
+      -0.8776416892817112
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.4911147653895708,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": false,
+    "hit": null,
+    "authoritativeShooter": {
+      "kills": 2,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 3,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.491128459611316,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:43.022468+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:42.919017+00:00"
+    },
+    "events": []
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:43.824Z",
+    "weapon": "VX9",
+    "direction": [
+      0.4689873257989401,
+      -0.10531374129632451,
+      -0.8769035888477876
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.49105094647992514,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": false,
+    "authoritativeShooter": {
+      "kills": 2,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 2,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.491128459611316,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:43.528189+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:43.528189+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          14.0026626959182,
+          -2.08317713444563,
+          -26.1589688012991
+        ],
+        "hit": false,
+        "type": "shot_fired",
+        "origin": [
+          -5.6948049876373,
+          2.34,
+          10.670981930308
+        ],
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              14.0026626959182,
+              -2.08317713444563,
+              -26.1589688012991
+            ],
+            "hit": false,
+            "direction": [
+              0.46898732579894,
+              -0.105313741296325,
+              -0.876903588847788
+            ],
+            "target_id": null
+          }
+        ],
+        "shooter": {
+          "kills": 2,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 2,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491128459611316,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:43.528189+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:43.528189+00:00"
+        },
+        "shot_id": "63010d2f-0f6e-451b-a4a2-81e9e154c526",
+        "event_id": "1a066d0b-671a-452b-81f7-a2f71c6e1365",
+        "fired_at": "2026-10-08T04:50:43.528189+00:00",
+        "direction": [
+          0.46898732579894,
+          -0.105313741296325,
+          -0.876903588847788
+        ],
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      }
+    ]
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:44.099Z",
+    "weapon": "VX9",
+    "direction": [
+      0.46898404110487646,
+      -0.10537684173843717,
+      -0.8768977650867699
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.49108258859689363,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": false,
+    "authoritativeShooter": {
+      "kills": 2,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 1,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.491128459611316,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:43.860543+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:43.860543+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          14.0025255937419,
+          -2.08582735301436,
+          -26.1587239478225
+        ],
+        "hit": false,
+        "type": "shot_fired",
+        "origin": [
+          -5.69480413266292,
+          2.34,
+          10.6709821858218
+        ],
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              14.0025255937419,
+              -2.08582735301436,
+              -26.1587239478225
+            ],
+            "hit": false,
+            "direction": [
+              0.468984041104877,
+              -0.105376841738437,
+              -0.87689776508677
+            ],
+            "target_id": null
+          }
+        ],
+        "shooter": {
+          "kills": 2,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 1,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491128459611316,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:43.860543+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:43.860543+00:00"
+        },
+        "shot_id": "adc51944-d264-4458-8c8e-a3e163f02585",
+        "event_id": "eaf7dd4f-1c84-4b6e-8c17-e89f2e84a154",
+        "fired_at": "2026-10-08T04:50:43.860543+00:00",
+        "direction": [
+          0.468984041104877,
+          -0.105376841738437,
+          -0.87689776508677
+        ],
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      }
+    ]
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:44.269Z",
+    "weapon": "VX9",
+    "direction": [
+      0.4689731767972116,
+      -0.10558527481326613,
+      -0.8768785030934093
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.4910975159400046,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": false,
+    "authoritativeShooter": {
+      "kills": 2,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 0,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.491113243608394,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:44.165345+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:44.165345+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          14.0020721219041,
+          -2.09458154215718,
+          -26.1579140986148
+        ],
+        "hit": false,
+        "type": "shot_fired",
+        "origin": [
+          -5.69480130357877,
+          2.34,
+          10.6709830313084
+        ],
+        "weapon": "VX9",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              14.0020721219041,
+              -2.09458154215718,
+              -26.1579140986148
+            ],
+            "hit": false,
+            "direction": [
+              0.468973176797212,
+              -0.105585274813266,
+              -0.876878503093409
+            ],
+            "target_id": null
+          }
+        ],
+        "shooter": {
+          "kills": 2,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 0,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491113243608394,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:50:44.165345+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:44.165345+00:00"
+        },
+        "shot_id": "c4d48dc5-2c97-4d0c-9350-d73031f2aec1",
+        "event_id": "1d79ffac-ea72-4d35-a567-e45dc50ca21d",
+        "fired_at": "2026-10-08T04:50:44.165345+00:00",
+        "direction": [
+          0.468973176797212,
+          -0.105585274813266,
+          -0.876878503093409
+        ],
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      }
+    ]
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:50:44.569Z",
+    "weapon": "VX9",
+    "direction": [
+      0.46859758144479197,
+      -0.11254847973392673,
+      -0.8762129572048529
+    ],
+    "motionAtResponse": {
+      "x": -4,
+      "y": 0,
+      "z": 5,
+      "yaw": -0.4910974235736053,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": false,
+    "hit": null,
+    "authoritativeShooter": {
+      "kills": 2,
+      "deaths": 0,
+      "health": 36,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        -4,
+        0,
+        5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 0,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.491113243608394,
+      "velocity_y": 0,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:50:44.165345+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "VX9",
+      "weapon_updated_at": "2026-10-08T04:50:44.165345+00:00"
+    },
+    "events": []
+  },
+  {
+    "client": "alpha",
+    "timestamp": "2026-10-08T04:51:52.555Z",
+    "weapon": "SH8",
+    "direction": [
+      0.4682371037897114,
+      -0.12010151927910619,
+      -0.8754025586560011
+    ],
+    "motionAtResponse": {
+      "x": -1.2796885327029914,
+      "y": 0,
+      "z": 0.21529712845190138,
+      "yaw": -0.49111736500723296,
+      "velocityX": 0.39990903005288875,
+      "velocityY": 0,
+      "velocityZ": -0.7033922061701762,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": true,
+    "authoritativeShooter": {
+      "kills": 2,
+      "deaths": 0,
+      "health": 36,
+      "grounded": false,
+      "is_alive": true,
+      "position": [
+        -1.83050934802742,
+        0.353360619996918,
+        1.18412513527201
+      ],
+      "sh8_ammo": 5,
+      "vx9_ammo": 12,
+      "is_active": true,
+      "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+      "dead_until": null,
+      "rotation_y": -0.491191498752644,
+      "velocity_y": 2.46860000002384,
+      "display_name": "Alpha",
+      "last_seen_at": "2026-10-08T04:51:52.203619+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "SH8",
+      "weapon_updated_at": "2026-10-08T04:51:52.203619+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          4.01423018304806,
+          2.02391889588103,
+          -7.24118162074335
+        ],
+        "hit": true,
+        "type": "shot_fired",
+        "origin": [
+          -3.52557909751714,
+          2.69336061999692,
+          6.85502793327207
+        ],
+        "weapon": "SH8",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              3.96621456311824,
+              0.771736311531219,
+              -7.15141300522395
+            ],
+            "hit": false,
+            "direction": [
+              0.468237103789711,
+              -0.120101519279106,
+              -0.875402558656001
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              3.57489246938181,
+              0.772464922694876,
+              -7.35389402610775
+            ],
+            "hit": false,
+            "direction": [
+              0.443779472931185,
+              -0.120055981081378,
+              -0.888057622461238
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              4.35185541679863,
+              0.772464922694875,
+              -6.93831050210148
+            ],
+            "hit": false,
+            "direction": [
+              0.492339657144736,
+              -0.120055981081378,
+              -0.862083652210847
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              3.93841783677996,
+              0.335091433788372,
+              -7.09944504890045
+            ],
+            "hit": false,
+            "direction": [
+              0.466499808393569,
+              -0.147391824138034,
+              -0.872154561385782
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              3.98833004940048,
+              1.20983841160138,
+              -7.19275947930878
+            ],
+            "hit": false,
+            "direction": [
+              0.469619321682352,
+              -0.0927201380247212,
+              -0.877986713286303
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              3.11024078977219,
+              -0.103447574301563,
+              -7.43286058630143
+            ],
+            "hit": false,
+            "direction": [
+              0.414738742955583,
+              -0.174800512143655,
+              -0.892993032473344
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              3.54128797543835,
+              0.283340998465454,
+              -4.73547061502504
+            ],
+            "hit": true,
+            "direction": [
+              0.512565114643663,
+              -0.174800512143655,
+              -0.840667463510183
+            ],
+            "target_id": "b92a7b91-d528-4837-bf64-2e6de5bac018"
+          },
+          {
+            "end": [
+              4.01423018304806,
+              2.02391889588103,
+              -7.24118162074335
+            ],
+            "hit": false,
+            "direction": [
+              0.471238080035325,
+              -0.0418401077572433,
+              -0.881013097125964
+            ],
+            "target_id": null
+          }
+        ],
+        "shooter": {
+          "kills": 2,
+          "deaths": 0,
+          "health": 36,
+          "grounded": false,
+          "is_alive": true,
+          "position": [
+            -1.83050934802742,
+            0.353360619996918,
+            1.18412513527201
+          ],
+          "sh8_ammo": 5,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491191498752644,
+          "velocity_y": 2.46860000002384,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:51:52.203619+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:51:52.203619+00:00"
+        },
+        "shot_id": "36df201e-9c3a-41d3-99b6-d053fdb29a99",
+        "event_id": "09d31a35-4da3-4b65-b8c2-22faede35627",
+        "fired_at": "2026-10-08T04:51:52.203619+00:00",
+        "direction": [
+          0.468237103789711,
+          -0.120101519279106,
+          -0.875402558656001
+        ],
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      },
+      {
+        "type": "player_damaged",
+        "damage": 8,
+        "player": {
+          "kills": 0,
+          "deaths": 2,
+          "health": 92,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            4,
+            0,
+            -5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": null,
+          "rotation_y": 2.49265073237437,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:51:52.203619+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:50:43.719576+00:00"
+        },
+        "weapon": "SH8",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shooter": {
+          "kills": 2,
+          "deaths": 0,
+          "health": 36,
+          "grounded": false,
+          "is_alive": true,
+          "position": [
+            -1.83050934802742,
+            0.353360619996918,
+            1.18412513527201
+          ],
+          "sh8_ammo": 5,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.491191498752644,
+          "velocity_y": 2.46860000002384,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:51:52.203619+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:51:52.203619+00:00"
+        },
+        "shot_id": "36df201e-9c3a-41d3-99b6-d053fdb29a99",
+        "event_id": "2fb50c17-06a4-4eb1-a08e-16b23b4d82b8",
+        "target_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+        "shooter_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+      }
+    ]
+  },
+  {
+    "client": "bravo",
+    "timestamp": "2026-10-08T04:49:17.813Z",
+    "weapon": "VX9",
+    "direction": [
+      -0.602502853273875,
+      -0.07799314800827474,
+      0.7942967837405606
+    ],
+    "motionAtResponse": {
+      "x": 4,
+      "y": 0,
+      "z": -5,
+      "yaw": 2.5077915847097256,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": false,
+    "hit": null,
+    "authoritativeShooter": {
+      "kills": 0,
+      "deaths": 1,
+      "health": 100,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        4,
+        0,
+        -5
+      ],
+      "sh8_ammo": 6,
+      "vx9_ammo": 12,
+      "is_active": true,
+      "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+      "dead_until": null,
+      "rotation_y": 2.49265073237437,
+      "velocity_y": 0,
+      "display_name": "Bravo",
+      "last_seen_at": "2026-10-08T04:49:16.223417+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "SH8",
+      "weapon_updated_at": "2026-10-08T04:49:17.358919+00:00"
+    },
+    "events": []
+  },
+  {
+    "client": "bravo",
+    "timestamp": "2026-10-08T04:49:17.826Z",
+    "weapon": "SH8",
+    "direction": [
+      -0.6024897087540066,
+      -0.0782636071922154,
+      0.7942801512280003
+    ],
+    "motionAtResponse": {
+      "x": 4,
+      "y": 0,
+      "z": -5,
+      "yaw": 2.5080887063485258,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": false,
+    "authoritativeShooter": {
+      "kills": 0,
+      "deaths": 1,
+      "health": 100,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        4,
+        0,
+        -5
+      ],
+      "sh8_ammo": 5,
+      "vx9_ammo": 12,
+      "is_active": true,
+      "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+      "dead_until": null,
+      "rotation_y": 2.49265073237437,
+      "velocity_y": 0,
+      "display_name": "Bravo",
+      "last_seen_at": "2026-10-08T04:49:17.78918+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "SH8",
+      "weapon_updated_at": "2026-10-08T04:49:17.78918+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          -3.10443686352068,
+          2.3431374641899,
+          2.41345874588249
+        ],
+        "hit": false,
+        "type": "shot_fired",
+        "origin": [
+          6.56505753399295,
+          2.34,
+          -10.3341240937295
+        ],
+        "weapon": "SH8",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              -3.07477780607116,
+              1.08778228492455,
+              2.37435832591846
+            ],
+            "hit": false,
+            "direction": [
+              -0.602489708754007,
+              -0.0782636071922154,
+              0.794280151228
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              -2.72011607382854,
+              1.08825708106577,
+              2.63579073781477
+            ],
+            "hit": false,
+            "direction": [
+              -0.580323350488843,
+              -0.0782339324333892,
+              0.81061967697152
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              -3.42212937720305,
+              1.08825708106577,
+              2.10328871061741
+            ],
+            "hit": false,
+            "direction": [
+              -0.62419918194975,
+              -0.0782339324333892,
+              0.777338300271684
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              -3.05028496077298,
+              0.649045969043057,
+              2.34206867750658
+            ],
+            "hit": false,
+            "direction": [
+              -0.60095890592287,
+              -0.105684626934809,
+              0.792262048202258
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              -3.09196049025861,
+              1.52746819308849,
+              2.3970107709256
+            ],
+            "hit": false,
+            "direction": [
+              -0.603563626515722,
+              -0.0507832379319694,
+              0.795695929040946
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              -2.29597536644496,
+              0.206833499350707,
+              2.81622558290889
+            ],
+            "hit": false,
+            "direction": [
+              -0.553814556277369,
+              -0.133322906290581,
+              0.821896854789902
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              -3.71020835295672,
+              0.206833499350706,
+              1.74347962691787
+            ],
+            "hit": false,
+            "direction": [
+              -0.642204117934354,
+              -0.133322906290581,
+              0.754850232540463
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              -3.10443686352068,
+              2.3431374641899,
+              2.41345874588249
+            ],
+            "hit": false,
+            "direction": [
+              -0.604343399844602,
+              0.000196091511868491,
+              0.796723927475752
+            ],
+            "target_id": null
+          }
+        ],
+        "shooter": {
+          "kills": 0,
+          "deaths": 1,
+          "health": 100,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            4,
+            0,
+            -5
+          ],
+          "sh8_ammo": 5,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": null,
+          "rotation_y": 2.49265073237437,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:49:17.78918+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:49:17.78918+00:00"
+        },
+        "shot_id": "a8e56f47-d87b-47b3-97d1-c9fd5d61318c",
+        "event_id": "b2f75362-27e8-485a-885c-a21b3fd228a0",
+        "fired_at": "2026-10-08T04:49:17.78918+00:00",
+        "direction": [
+          -0.602489708754007,
+          -0.0782636071922154,
+          0.794280151228
+        ],
+        "shooter_id": "b92a7b91-d528-4837-bf64-2e6de5bac018"
+      }
+    ]
+  },
+  {
+    "client": "bravo",
+    "timestamp": "2026-10-08T04:49:24.681Z",
+    "weapon": "SH8",
+    "direction": [
+      -0.5496262319821249,
+      -0.05646551770762811,
+      0.8335002402082083
+    ],
+    "motionAtResponse": {
+      "x": 0.04678822117764,
+      "y": 0,
+      "z": 0.6713752220767301,
+      "yaw": 2.558625949183684,
+      "velocityX": -4.766780880392304e-24,
+      "velocityY": 0,
+      "velocityZ": 6.838541542082369e-24,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": true,
+    "authoritativeShooter": {
+      "kills": 0,
+      "deaths": 1,
+      "health": 100,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        0.04678822117764,
+        0,
+        0.67137522207673
+      ],
+      "sh8_ammo": 4,
+      "vx9_ammo": 12,
+      "is_active": true,
+      "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+      "dead_until": null,
+      "rotation_y": 2.55862418167761,
+      "velocity_y": 0,
+      "display_name": "Bravo",
+      "last_seen_at": "2026-10-08T04:49:24.664023+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "SH8",
+      "weapon_updated_at": "2026-10-08T04:49:24.664023+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          -6.55131994479669,
+          2.69267943674713,
+          8.53382268344342
+        ],
+        "hit": true,
+        "type": "shot_fired",
+        "origin": [
+          2.25461255673106,
+          2.34,
+          -4.8202467335333
+        ],
+        "weapon": "SH8",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              -3.9479944666839,
+              1.70277892805253,
+              4.58591720680357
+            ],
+            "hit": true,
+            "direction": [
+              -0.549626231982125,
+              -0.0564655177076281,
+              0.833500240208208
+            ],
+            "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+          },
+          {
+            "end": [
+              -3.67669149707393,
+              1.70404311310878,
+              4.73804432686985
+            ],
+            "hit": true,
+            "direction": [
+              -0.526430601695684,
+              -0.0564441080041901,
+              0.848342433378133
+            ],
+            "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+          },
+          {
+            "end": [
+              -6.90386848448506,
+              1.43689427193296,
+              8.26816894834422
+            ],
+            "hit": false,
+            "direction": [
+              -0.572405065076007,
+              -0.0564441080041901,
+              0.818025980117345
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              -3.85691555778342,
+              1.40487651685168,
+              4.44779735729659
+            ],
+            "hit": true,
+            "direction": [
+              -0.548561916271631,
+              -0.0839353301260562,
+              0.831886220809689
+            ],
+            "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+          },
+          {
+            "end": [
+              -6.54976745126991,
+              1.87675382588282,
+              8.53146834943933
+            ],
+            "hit": false,
+            "direction": [
+              -0.55027375050006,
+              -0.028952885882324,
+              0.834482192685789
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              -3.47197380454986,
+              1.06072535911254,
+              5.01832984306061
+            ],
+            "hit": true,
+            "direction": [
+              -0.49989948041757,
+              -0.11167363730248,
+              0.858853601150905
+            ],
+            "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+          },
+          {
+            "end": [
+              -7.22565652086771,
+              0.553221803160313,
+              7.94423217833862
+            ],
+            "hit": false,
+            "direction": [
+              -0.592516817349923,
+              -0.11167363730248,
+              0.797779931991995
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              -6.55131994479669,
+              2.69267943674713,
+              8.53382268344342
+            ],
+            "hit": false,
+            "direction": [
+              -0.550370781345484,
+              0.0220424647966956,
+              0.834629338561045
+            ],
+            "target_id": null
+          }
+        ],
+        "shooter": {
+          "kills": 0,
+          "deaths": 1,
+          "health": 100,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            0.04678822117764,
+            0,
+            0.67137522207673
+          ],
+          "sh8_ammo": 4,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": null,
+          "rotation_y": 2.55862418167761,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:49:24.664023+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:49:24.664023+00:00"
+        },
+        "shot_id": "75bf6c74-398f-4a53-bcf0-66b5955de8b6",
+        "event_id": "542f8544-1aea-4e81-8231-a1e88ae4db87",
+        "fired_at": "2026-10-08T04:49:24.664023+00:00",
+        "direction": [
+          -0.549626231982125,
+          -0.0564655177076281,
+          0.833500240208208
+        ],
+        "shooter_id": "b92a7b91-d528-4837-bf64-2e6de5bac018"
+      },
+      {
+        "type": "player_damaged",
+        "damage": 32,
+        "player": {
+          "kills": 1,
+          "deaths": 0,
+          "health": 68,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 4,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.58296847191218,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:49:24.664023+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:49:00.16272+00:00"
+        },
+        "weapon": "SH8",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shooter": {
+          "kills": 0,
+          "deaths": 1,
+          "health": 100,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            0.04678822117764,
+            0,
+            0.67137522207673
+          ],
+          "sh8_ammo": 4,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": null,
+          "rotation_y": 2.55862418167761,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:49:24.664023+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:49:24.664023+00:00"
+        },
+        "shot_id": "75bf6c74-398f-4a53-bcf0-66b5955de8b6",
+        "event_id": "778275ac-73a3-493f-826c-19c2037720b5",
+        "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+        "shooter_id": "b92a7b91-d528-4837-bf64-2e6de5bac018"
+      }
+    ]
+  },
+  {
+    "client": "bravo",
+    "timestamp": "2026-10-08T04:49:30.512Z",
+    "weapon": "SH8",
+    "direction": [
+      -0.5498065996410154,
+      -0.05602849271492699,
+      0.833410769666002
+    ],
+    "motionAtResponse": {
+      "x": -4.774657283757388,
+      "y": 0,
+      "z": 7.588339984189081,
+      "yaw": 2.5585761384030934,
+      "velocityX": -0.3032582241018472,
+      "velocityY": 0,
+      "velocityZ": 0.435061735694452,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": true,
+    "authoritativeShooter": {
+      "kills": 0,
+      "deaths": 1,
+      "health": 100,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        0.04678822117764,
+        0,
+        0.67137522207673
+      ],
+      "sh8_ammo": 3,
+      "vx9_ammo": 12,
+      "is_active": true,
+      "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+      "dead_until": null,
+      "rotation_y": 2.55862418167761,
+      "velocity_y": 0,
+      "display_name": "Bravo",
+      "last_seen_at": "2026-10-08T04:49:30.4103+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "SH8",
+      "weapon_updated_at": "2026-10-08T04:49:30.4103+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          -6.55280758934879,
+          2.6996811884094,
+          8.53237180862829
+        ],
+        "hit": true,
+        "type": "shot_fired",
+        "origin": [
+          2.25571163350342,
+          2.34,
+          -4.81980473841255
+        ],
+        "weapon": "SH8",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              -3.95198291587511,
+              1.70739979282999,
+              4.58997589286211
+            ],
+            "hit": true,
+            "direction": [
+              -0.549806599641015,
+              -0.056028492714927,
+              0.833410769666002
+            ],
+            "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+          },
+          {
+            "end": [
+              -3.67998276283043,
+              1.70871797328064,
+              4.74127507612966
+            ],
+            "hit": true,
+            "direction": [
+              -0.526613935270168,
+              -0.0560072487157253,
+              0.848257597237162
+            ],
+            "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+          },
+          {
+            "end": [
+              -6.90560564715869,
+              1.44388402054839,
+              8.26710634993879
+            ],
+            "hit": false,
+            "direction": [
+              -0.572582330041382,
+              -0.0560072487157253,
+              0.817931943021959
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              -3.85852400115045,
+              1.40964047419145,
+              4.44830850272222
+            ],
+            "hit": true,
+            "direction": [
+              -0.548748582307639,
+              -0.0834991487619944,
+              0.831807000193782
+            ],
+            "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+          },
+          {
+            "end": [
+              -6.55145129455915,
+              1.8837544212887,
+              8.53031590263286
+            ],
+            "hit": false,
+            "direction": [
+              -0.550447683003911,
+              -0.0285153486694562,
+              0.834382540065338
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              -3.46915818592174,
+              1.06658887032912,
+              5.01123445467583
+            ],
+            "hit": true,
+            "direction": [
+              -0.50009823105117,
+              -0.11123932481197,
+              0.858794254705321
+            ],
+            "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+          },
+          {
+            "end": [
+              -7.22754184706382,
+              0.560170803008486,
+              7.94342805946613
+            ],
+            "hit": false,
+            "direction": [
+              -0.592703342535453,
+              -0.11123932481197,
+              0.797702049867417
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              -6.55280758934879,
+              2.6996811884094,
+              8.53237180862829
+            ],
+            "hit": false,
+            "direction": [
+              -0.550532451428263,
+              0.0224800742755876,
+              0.834511034190052
+            ],
+            "target_id": null
+          }
+        ],
+        "shooter": {
+          "kills": 0,
+          "deaths": 1,
+          "health": 100,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            0.04678822117764,
+            0,
+            0.67137522207673
+          ],
+          "sh8_ammo": 3,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": null,
+          "rotation_y": 2.55862418167761,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:49:30.4103+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:49:30.4103+00:00"
+        },
+        "shot_id": "9de43621-1324-4bac-a92f-6952a5f2ff22",
+        "event_id": "b7647099-a9bf-4e73-bc84-d889f1c97366",
+        "fired_at": "2026-10-08T04:49:30.4103+00:00",
+        "direction": [
+          -0.549806599641015,
+          -0.056028492714927,
+          0.833410769666002
+        ],
+        "shooter_id": "b92a7b91-d528-4837-bf64-2e6de5bac018"
+      },
+      {
+        "type": "player_damaged",
+        "damage": 32,
+        "player": {
+          "kills": 1,
+          "deaths": 0,
+          "health": 36,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            -4,
+            0,
+            5
+          ],
+          "sh8_ammo": 6,
+          "vx9_ammo": 4,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": null,
+          "rotation_y": -0.58296847191218,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:49:30.4103+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "VX9",
+          "weapon_updated_at": "2026-10-08T04:49:00.16272+00:00"
+        },
+        "weapon": "SH8",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shooter": {
+          "kills": 0,
+          "deaths": 1,
+          "health": 100,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            0.04678822117764,
+            0,
+            0.67137522207673
+          ],
+          "sh8_ammo": 3,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": null,
+          "rotation_y": 2.55862418167761,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:49:30.4103+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:49:30.4103+00:00"
+        },
+        "shot_id": "9de43621-1324-4bac-a92f-6952a5f2ff22",
+        "event_id": "eee012c1-8865-403d-9ab9-8caecaf20481",
+        "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+        "shooter_id": "b92a7b91-d528-4837-bf64-2e6de5bac018"
+      }
+    ]
+  },
+  {
+    "client": "bravo",
+    "timestamp": "2026-10-08T04:52:36.221Z",
+    "weapon": "SH8",
+    "direction": [
+      -0.602502853273875,
+      -0.07799314800827474,
+      0.7942967837405606
+    ],
+    "motionAtResponse": {
+      "x": 4,
+      "y": 0,
+      "z": -5,
+      "yaw": 2.492650734451794,
+      "velocityX": 0,
+      "velocityY": 0,
+      "velocityZ": 0,
+      "grounded": true,
+      "jetpackActive": false
+    },
+    "accepted": true,
+    "hit": true,
+    "authoritativeShooter": {
+      "kills": 1,
+      "deaths": 2,
+      "health": 92,
+      "grounded": true,
+      "is_alive": true,
+      "position": [
+        4,
+        0,
+        -5
+      ],
+      "sh8_ammo": 5,
+      "vx9_ammo": 12,
+      "is_active": true,
+      "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+      "dead_until": null,
+      "rotation_y": 2.49265073237437,
+      "velocity_y": 0,
+      "display_name": "Bravo",
+      "last_seen_at": "2026-10-08T04:52:35.78285+00:00",
+      "reload_weapon": null,
+      "jetpack_active": false,
+      "reload_ends_at": null,
+      "selected_weapon": "SH8",
+      "weapon_updated_at": "2026-10-08T04:52:35.78285+00:00"
+    },
+    "events": [
+      {
+        "end": [
+          -3.10443912245025,
+          2.3474780788231,
+          2.41345459993783
+        ],
+        "hit": true,
+        "type": "shot_fired",
+        "origin": [
+          6.56505978547339,
+          2.34,
+          -10.3341230110438
+        ],
+        "weapon": "SH8",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "pellets": [
+          {
+            "end": [
+              -1.00270969257577,
+              1.36036287166644,
+              -0.357315558860636
+            ],
+            "hit": true,
+            "direction": [
+              -0.602502853273875,
+              -0.0779931480082747,
+              0.794296783740561
+            ],
+            "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+          },
+          {
+            "end": [
+              -0.747526951069966,
+              1.35761234522984,
+              -0.11962094778101
+            ],
+            "hit": true,
+            "direction": [
+              -0.580336497048651,
+              -0.0779635757978915,
+              0.810636312437401
+            ],
+            "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+          },
+          {
+            "end": [
+              -1.42076114367325,
+              1.342577903554,
+              -0.389081839199983
+            ],
+            "hit": true,
+            "direction": [
+              -0.624212314461816,
+              -0.0779635757978915,
+              0.777354917218017
+            ],
+            "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+          },
+          {
+            "end": [
+              -1.05103149256261,
+              1.00409237485622,
+              -0.293611544671251
+            ],
+            "hit": true,
+            "direction": [
+              -0.6009765453636,
+              -0.105414853915831,
+              0.792284608266964
+            ],
+            "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+          },
+          {
+            "end": [
+              -1.0994730802387,
+              1.69856369252656,
+              -0.229749610937111
+            ],
+            "hit": true,
+            "direction": [
+              -0.603572266146867,
+              -0.0505122976799517,
+              0.795706621388453
+            ],
+            "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a"
+          },
+          {
+            "end": [
+              -2.29632804927192,
+              0.211128699048015,
+              2.81668352795639
+            ],
+            "hit": false,
+            "direction": [
+              -0.553836739671582,
+              -0.133054456309499,
+              0.821925408687513
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              -3.71056058298816,
+              0.211128699048015,
+              1.7439369750318
+            ],
+            "hit": false,
+            "direction": [
+              -0.642226273028847,
+              -0.133054456309499,
+              0.754878749129726
+            ],
+            "target_id": null
+          },
+          {
+            "end": [
+              -3.10443912245025,
+              2.3474780788231,
+              2.41345459993783
+            ],
+            "hit": false,
+            "direction": [
+              -0.604343681745228,
+              0.000467379926443602,
+              0.796723600686353
+            ],
+            "target_id": null
+          }
+        ],
+        "shooter": {
+          "kills": 0,
+          "deaths": 2,
+          "health": 92,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            4,
+            0,
+            -5
+          ],
+          "sh8_ammo": 5,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": null,
+          "rotation_y": 2.49265073237437,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:52:35.78285+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:52:35.78285+00:00"
+        },
+        "shot_id": "f2235a34-df01-49ca-a6ee-99f88fd0b48a",
+        "event_id": "17a32da6-bb49-4caa-aa5d-572561014b16",
+        "fired_at": "2026-10-08T04:52:35.78285+00:00",
+        "direction": [
+          -0.602502853273875,
+          -0.0779931480082747,
+          0.794296783740561
+        ],
+        "shooter_id": "b92a7b91-d528-4837-bf64-2e6de5bac018"
+      },
+      {
+        "type": "player_damaged",
+        "damage": 40,
+        "player": {
+          "kills": 2,
+          "deaths": 1,
+          "health": 0,
+          "grounded": true,
+          "is_alive": false,
+          "position": [
+            -1.25034118586169,
+            0,
+            0.163678651526741
+          ],
+          "sh8_ammo": 5,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": "2026-10-08T04:52:37.78285+00:00",
+          "rotation_y": -0.491074595490625,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:52:35.78285+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:52:35.870141+00:00"
+        },
+        "weapon": "SH8",
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shooter": {
+          "kills": 1,
+          "deaths": 2,
+          "health": 92,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            4,
+            0,
+            -5
+          ],
+          "sh8_ammo": 5,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": null,
+          "rotation_y": 2.49265073237437,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:52:35.78285+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:52:35.78285+00:00"
+        },
+        "shot_id": "f2235a34-df01-49ca-a6ee-99f88fd0b48a",
+        "event_id": "0693b770-420e-4a5b-9177-9d793552e8ac",
+        "target_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+        "shooter_id": "b92a7b91-d528-4837-bf64-2e6de5bac018"
+      },
+      {
+        "type": "player_died",
+        "killer": {
+          "kills": 1,
+          "deaths": 2,
+          "health": 92,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            4,
+            0,
+            -5
+          ],
+          "sh8_ammo": 5,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": null,
+          "rotation_y": 2.49265073237437,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:52:35.78285+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:52:35.78285+00:00"
+        },
+        "player": {
+          "kills": 2,
+          "deaths": 1,
+          "health": 0,
+          "grounded": true,
+          "is_alive": false,
+          "position": [
+            -1.25034118586169,
+            0,
+            0.163678651526741
+          ],
+          "sh8_ammo": 5,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": "2026-10-08T04:52:37.78285+00:00",
+          "rotation_y": -0.491074595490625,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:52:35.78285+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:52:35.870141+00:00"
+        },
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shot_id": "f2235a34-df01-49ca-a6ee-99f88fd0b48a",
+        "event_id": "a2001dfc-d6c4-4ca8-a0f6-d729428cc95d"
+      },
+      {
+        "type": "elimination",
+        "player": {
+          "kills": 1,
+          "deaths": 2,
+          "health": 92,
+          "grounded": true,
+          "is_alive": true,
+          "position": [
+            4,
+            0,
+            -5
+          ],
+          "sh8_ammo": 5,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "b92a7b91-d528-4837-bf64-2e6de5bac018",
+          "dead_until": null,
+          "rotation_y": 2.49265073237437,
+          "velocity_y": 0,
+          "display_name": "Bravo",
+          "last_seen_at": "2026-10-08T04:52:35.78285+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:52:35.78285+00:00"
+        },
+        "victim": {
+          "kills": 2,
+          "deaths": 1,
+          "health": 0,
+          "grounded": true,
+          "is_alive": false,
+          "position": [
+            -1.25034118586169,
+            0,
+            0.163678651526741
+          ],
+          "sh8_ammo": 5,
+          "vx9_ammo": 12,
+          "is_active": true,
+          "player_id": "17d88250-97ae-44c2-a2a1-eda16f131f5a",
+          "dead_until": "2026-10-08T04:52:37.78285+00:00",
+          "rotation_y": -0.491074595490625,
+          "velocity_y": 0,
+          "display_name": "Alpha",
+          "last_seen_at": "2026-10-08T04:52:35.78285+00:00",
+          "reload_weapon": null,
+          "jetpack_active": false,
+          "reload_ends_at": null,
+          "selected_weapon": "SH8",
+          "weapon_updated_at": "2026-10-08T04:52:35.870141+00:00"
+        },
+        "game_id": "d8c0919a-54bc-4c38-98bc-00294ee92a32",
+        "shot_id": "f2235a34-df01-49ca-a6ee-99f88fd0b48a",
+        "event_id": "98743b14-8dec-4365-a3ee-8f614c1fe707"
+      }
+    ]
+  }
+]
