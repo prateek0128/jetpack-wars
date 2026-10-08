@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Jetpack Wars jetpack icon</title>
+  <!-- Original twin-thruster pack. Large planes keep the silhouette readable at 16px. -->
+  <polygon fill="#091724" points="21,14 43,14 46,34 40,40 24,40 18,34"/>
+  <polygon fill="#70f0dc" stroke="#091724" stroke-width="2" points="11,10 21,6 27,11 27,34 23,39 11,35 8,29 8,15"/>
+  <polygon fill="#70f0dc" stroke="#091724" stroke-width="2" points="43,6 53,10 56,15 56,29 53,35 41,39 37,34 37,11"/>
+  <polygon fill="#248f9e" points="11,15 15,12 15,31 23,34 21,36 11,32"/>
+  <polygon fill="#248f9e" points="49,12 53,15 53,32 43,36 41,34 49,31"/>
+  <polygon fill="#e3fff5" points="12,11 21,8 24,11 15,14"/>
+  <polygon fill="#e3fff5" points="43,8 52,11 49,14 40,11"/>
+  <polygon fill="#091724" points="21,30 43,30 43,39 21,39"/>
+  <polygon fill="#163849" stroke="#091724" stroke-width="2" points="32,10 40,16 40,31 32,37 24,31 24,16"/>
+  <polygon fill="#37d8c7" points="32,15 36,19 36,28 32,31 28,28 28,19"/>
+  <polygon fill="#e3fff5" points="32,17 34,20 32,23 30,20"/>
+  <polygon fill="#e5ae57" stroke="#091724" stroke-width="2" points="11,34 25,34 24,42 12,42"/>
+  <polygon fill="#e5ae57" stroke="#091724" stroke-width="2" points="39,34 53,34 52,42 40,42"/>
+  <polygon fill="#24cdbb" stroke="#091724" stroke-width="1.5" points="13,42 23,42 22,48 18,56 14,48"/>
+  <polygon fill="#24cdbb" stroke="#091724" stroke-width="1.5" points="41,42 51,42 50,48 46,56 42,48"/>
+  <polygon fill="#e3fff5" points="16,43 20,43 19,48 18,51 17,48"/>
+  <polygon fill="#e3fff5" points="44,43 48,43 47,48 46,51 45,48"/>
+</svg>
