@@ -16,7 +16,7 @@ Never provide a service-role or secret key to a Vite environment variable. The p
 
 `/` offers Create Room, Join Room and solo training. `/create`, `/join` and `/lobby/:roomCode` provide the multiplayer entry flow. `/play` recovers an authenticated match or enters solo training when no match exists.
 
-- WASD: movement.
+- WASD / Arrow Keys — Move.
 - Space: launch and hold for jetpack thrust; double-tap for a fuel-consuming burst.
 - Mouse: aim, using pointer lock where supported and mouse movement otherwise.
 - Left mouse: fire; VX-9 supports holding, SH-8 fires per click.

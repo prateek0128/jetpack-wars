@@ -107,10 +107,10 @@ export default function Player({ game, controlsEnabled = true }: { game: GameApi
     const r = right.current.set(Math.cos(game.yawRef.current), 0, -Math.sin(game.yawRef.current));
     const move = input.current.set(0, 0, 0);
     if (enabled) {
-      if (pressed.has('KeyW')) move.add(f);
-      if (pressed.has('KeyS')) move.sub(f);
-      if (pressed.has('KeyD')) move.add(r);
-      if (pressed.has('KeyA')) move.sub(r);
+      if (pressed.has('KeyW') || pressed.has('ArrowUp')) move.add(f);
+      if (pressed.has('KeyS') || pressed.has('ArrowDown')) move.sub(f);
+      if (pressed.has('KeyD') || pressed.has('ArrowRight')) move.add(r);
+      if (pressed.has('KeyA') || pressed.has('ArrowLeft')) move.sub(r);
     }
     if (move.lengthSq() > 0) move.normalize();
     const air = !grounded.current;
@@ -274,4 +274,3 @@ export default function Player({ game, controlsEnabled = true }: { game: GameApi
     <JetpackEffect active={jetActive} strength={jetStrength}/>
   </group>;
 }
-

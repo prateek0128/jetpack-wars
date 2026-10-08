@@ -105,7 +105,7 @@ export default function Play() {
       <div className="ammo"><strong>{String(state.ammo).padStart(2, '0')}</strong><span> / {WEAPONS[state.weapon].magazine}</span></div>
       {state.reloading&&<div className="reload-progress" role="progressbar" aria-label="Reloading" aria-valuemin={0} aria-valuemax={100} aria-valuenow={Math.round(state.reloadProgress*100)}><i style={{width:`${state.reloadProgress*100}%`}}/></div>}
     </div>
-    <div className="controls-hint"><kbd>W A S D</kbd> MOVE <kbd>SPACE</kbd> BOOST · DOUBLE TAP FOR BURST <kbd>LMB</kbd> FIRE <kbd>R</kbd> RELOAD <kbd>1 / 2</kbd> WEAPON</div>
+    <div className="controls-hint"><kbd>WASD / Arrow Keys</kbd> MOVE <kbd>SPACE</kbd> BOOST · DOUBLE TAP FOR BURST <kbd>LMB</kbd> FIRE <kbd>R</kbd> RELOAD <kbd>1 / 2</kbd> WEAPON</div>
     <div className="center-notice">
       {!aiming && state.hp > 0 && <span>CLICK TO AIM · ESC TO RELEASE</span>}
       {state.hp === 0 && <div className="respawn-notice"><strong>ELIMINATED</strong><small>RESPAWNING</small><b key={presentation.respawnCount}>{presentation.respawnCount||'…'}</b></div>}
